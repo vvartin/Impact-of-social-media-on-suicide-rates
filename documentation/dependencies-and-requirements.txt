@@ -1,0 +1,4 @@
+jupyter-notebook 6.0.3
+Python 3.6.3
+pandas 1.2.4
+matplotlib 3.4.1
