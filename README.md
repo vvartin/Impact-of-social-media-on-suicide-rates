@@ -1,4 +1,5 @@
 # Impact of social media on suicide rates
+[![DOI](https://zenodo.org/badge/359275055.svg)](https://zenodo.org/badge/latestdoi/359275055)
 
 ## Description
 This project explores whether increase in social media usage has impact on number of suicides via analysis of correlation of number of Facebook and Twitter users with the number of suicides. 
