@@ -35,12 +35,13 @@ To facilitate the usage additional project information might be necessary.
 A *-* separator was chosen in place of spaces to facilitate command line interactions.
 
 #### Intermediate datasets
-- For produced intermediate datasets is as follows: <step>--<timestamp>
+- For produced intermediate datasets is as follows: \<dataset-name\>-\<step\>--\<timestamp\>
+ 	* name of the dataset the output is based on
 	* step - the point at which the dataset was archived (see code/analysis.ipnyb for more details)
 	* timestamp - timestamp in form DD-MM-YYYY-HHMMSS
 
 #### Figures
-- For figures the naming convention is as follows: <figure-type>--<timestamp>
+- For figures the naming convention is as follows: \<figure-type\>--\<timestamp\>
 	* figure-type - the type of the figure, descriptive name what the figure contains
 
 
