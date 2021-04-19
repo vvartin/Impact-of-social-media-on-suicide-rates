@@ -13,6 +13,7 @@ No installation of special software is necessary but `python3`, `jupyter-noteboo
 * run the code/analysis.ipnyb notebook to produce the visualizations and verify the outcome of the experiment
 
 * the corresponding produced data can also be found in a separate repository: https://github.com/vvartin/Impact-of-social-media-on-suicide-rates-results
+	* this includes the researcher produced content of `data/produced/final` and `data/produced/figures` folders.
 
 To facilitate the usage additional project information might be necessary.
 
