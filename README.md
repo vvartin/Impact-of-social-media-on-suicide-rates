@@ -12,6 +12,8 @@ No installation of special software is necessary but `python3`, `jupyter-noteboo
 * run the entire code/preprocess.ipnyb notebook to produce a preprocessed dataset for analysis along with stepwise intermediate datasets
 * run the code/analysis.ipnyb notebook to produce the visualizations and verify the outcome of the experiment
 
+* the corresponding produced data can also be found in a separate repository: https://github.com/vvartin/Impact-of-social-media-on-suicide-rates-results
+
 To facilitate the usage additional project information might be necessary.
 
 ### Folder structure
