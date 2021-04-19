@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata 
-	xmlns:xsi="http:///www.w3.org/2001/XMLSchema-instance" 
-	xmlns:dc="http://purl.org/dc/elements/1.1/">
-
+<metadata xmlns:xsi="http:///www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<dc:title>Impact of social media on suicide rates</dc:title>
 	<dc:creator>Martin Winkler (https://orcid.org/0000-0001-8811-8043) </dc:creator>
 	<dc:subject>Correlation analysis of percentual change in Social media users (Facebook and Twitter) and golbal suicide rates</dc:subject>
